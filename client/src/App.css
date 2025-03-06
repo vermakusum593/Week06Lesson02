@@ -15,7 +15,7 @@ body {
 
 
 div {
-  background-color: #f27bfd;
+  background-color: #61f1b8;
   border-radius: 8px;
   padding: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -39,7 +39,7 @@ ul {
   cursor: pointer;
 }
 li:hover{
-  background-color: yellow;
+  background-color: rgb(141, 141, 136);
 }
 
 li {
@@ -60,7 +60,7 @@ strong {
   color: blue;
 }
 #info{
-  color: green;
+  color: rgb(237, 15, 15);
 }
 
 

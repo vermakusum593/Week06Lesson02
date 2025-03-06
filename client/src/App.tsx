@@ -29,7 +29,7 @@ function App() {
   return (
     <>
         <div>
-          <h1>Information of the People</h1>
+          <h1>Details of all the person</h1>
           {people.length > 0 ? (
             <ul>
               {people.map((person, index) => (
